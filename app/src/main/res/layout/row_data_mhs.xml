@@ -18,14 +18,12 @@
             android:id="@+id/textNama"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="10dp"
-            android:text="@string/textview1" />
+            android:layout_marginLeft="10dp"/>
 
         <TextView
             android:id="@+id/textTelepon"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="10dp"
-            android:text="@string/textview2" />
+            android:layout_marginLeft="10dp"/>
     </LinearLayout>
 </androidx.cardview.widget.CardView>

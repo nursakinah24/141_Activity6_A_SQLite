@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Activity6">
         <activity
+            android:name=".editMahasiswa"
+            android:exported="false" />
+        <activity
             android:name=".Mahasiswa2"
             android:exported="false" />
         <activity
